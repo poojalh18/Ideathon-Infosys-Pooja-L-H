@@ -9,7 +9,9 @@ India’s recycling rate is now at 60% against the global average of 20% While t
 
 ![image](https://github.com/poojalh18/Ideathon-Infosys-Pooja-L-H/assets/132671714/2db275b2-e3a0-4386-9ef4-d2207dbcb93f)
 
-Presented a unique idea focused on tackling the critical issue of reducing single-use plastics in FMCG products and implementing efficient management of packaging
-in biodegradable plastics for e-commerce and food delivery services.
+
+# Presented a unique idea focused on tackling the critical issue of reducing single-use plastics in FMCG products and implementing efficient management of packaging
+# in biodegradable plastics for e-commerce and food delivery services.
+
 
 ![image](https://github.com/poojalh18/Ideathon-Infosys-Pooja-L-H/assets/132671714/ebb18381-ae46-4ff8-8378-d45f5516a872)
